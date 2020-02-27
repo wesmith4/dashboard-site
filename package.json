@@ -1,0 +1,26 @@
+{
+  "name": "dashboard-site",
+  "version": "1.0.0",
+  "description": "personal start page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wismith/dashboard-site.git"
+  },
+  "keywords": [
+    "html",
+    "javascript"
+  ],
+  "author": "will smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wismith/dashboard-site/issues"
+  },
+  "homepage": "https://github.com/wismith/dashboard-site#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
